@@ -1,10 +1,10 @@
 # Evara E-Commerce Website
 
-Welcome to the Avira E-Commerce Website repository! This project is a responsive web application created with HTML, CSS, and JavaScript, offering a modern UI design for an immersive shopping experience. It includes features such as a slider, shopping pages, a cart, and a checkout process.
+Welcome to the Avina E-Commerce Website repository! This project is a responsive web application created with HTML, CSS, and JavaScript, offering a modern UI design for an immersive shopping experience. It includes features such as a slider, shopping pages, a cart, and a checkout process.
 
 ## Preview
 
-![Avira E-Commerce Website Preview](Preview.png)
+![Avina E-Commerce Website Preview](Preview.png)
 
 ## Features
 
@@ -29,7 +29,7 @@ To explore this e-commerce website locally, follow these steps:
 
 ### Home
 
-Welcome users to the Evara E-Commerce platform, featuring the latest products and promotions.
+Welcome users to the Avina E-Commerce platform, featuring the latest products and promotions.
 
 ### Shop
 
@@ -57,4 +57,4 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push your changes to your forked repository.
 5. Open a pull request to merge your changes into the main branch.
 
-Explore the Avira E-Commerce Website, provide feedback, and consider contributing to its development. Thank you for checking out the repository!
+Explore the Avina E-Commerce Website, provide feedback, and consider contributing to its development. Thank you for checking out the repository!
