@@ -1,4 +1,4 @@
-# Anina E-Commerce Website
+# Avina E-Commerce Website
 
 Welcome to the Avina E-Commerce Website repository! This project is a responsive web application created with HTML, CSS, and JavaScript, offering a modern UI design for an immersive shopping experience. It includes features such as a slider, shopping pages, a cart, and a checkout process.
 
